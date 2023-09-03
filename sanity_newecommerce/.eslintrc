@@ -1,0 +1,7 @@
+// {
+//   "extends": "@sanity/eslint-config-studio", "@babel/core"
+// }
+
+{
+  "extends": ["next/babel", "next/core-web-vitals"]
+}
